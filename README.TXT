@@ -1,5 +1,6 @@
 Project "house"
-Authors: Michael Kšlling and David J. Barnes
+Authors: Maria Langman
+Date: 09/14/2015
 
 This project is part of the material for the book
 
